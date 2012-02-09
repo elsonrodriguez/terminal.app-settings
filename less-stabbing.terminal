@@ -70,7 +70,7 @@
 	dHmEjZWYobO2uwAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC9
 	</data>
 	<key>VisualBell</key>
-	<true/>
+	<false/>
 	<key>keyMapBoundKeys</key>
 	<dict>
 		<key>$F708</key>
